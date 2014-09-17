@@ -1,0 +1,24 @@
+c:\users\kaarthikrao.br\documents\visual studio 2012\Projects\RuleBaseInsertion\RuleBaseInsertion\bin\Debug\RuleBaseInsertion.exe.config
+c:\users\kaarthikrao.br\documents\visual studio 2012\Projects\RuleBaseInsertion\RuleBaseInsertion\bin\Debug\RuleBaseInsertion.exe
+c:\users\kaarthikrao.br\documents\visual studio 2012\Projects\RuleBaseInsertion\RuleBaseInsertion\bin\Debug\RuleBaseInsertion.pdb
+c:\users\kaarthikrao.br\documents\visual studio 2012\Projects\RuleBaseInsertion\RuleBaseInsertion\obj\Debug\RuleBaseInsertion.csprojResolveAssemblyReference.cache
+c:\users\kaarthikrao.br\documents\visual studio 2012\Projects\RuleBaseInsertion\RuleBaseInsertion\obj\Debug\RuleBaseInsertion.exe
+c:\users\kaarthikrao.br\documents\visual studio 2012\Projects\RuleBaseInsertion\RuleBaseInsertion\obj\Debug\RuleBaseInsertion.pdb
+D:\Sage\SRC\RuleBaseInsertion\RuleBaseInsertion\bin\Debug\RuleBaseInsertion.exe.config
+D:\Sage\SRC\RuleBaseInsertion\RuleBaseInsertion\obj\Debug\RuleBaseInsertion.exe
+D:\Sage\SRC\RuleBaseInsertion\RuleBaseInsertion\obj\Debug\RuleBaseInsertion.pdb
+D:\Sage\SRC\RuleBaseInsertion\RuleBaseInsertion\bin\Debug\RuleBaseInsertion.exe
+D:\Sage\SRC\RuleBaseInsertion\RuleBaseInsertion\bin\Debug\RuleBaseInsertion.pdb
+D:\Sage\SRC\RuleBaseInsertion\RuleBaseInsertion\obj\Debug\RuleBaseInsertion.csprojResolveAssemblyReference.cache
+D:\Sage\Sage\SRC\RuleBaseInsertion\RuleBaseInsertion\bin\Debug\RuleBaseInsertion.exe.config
+D:\Sage\Sage\SRC\RuleBaseInsertion\RuleBaseInsertion\bin\Debug\RuleBaseInsertion.exe
+D:\Sage\Sage\SRC\RuleBaseInsertion\RuleBaseInsertion\bin\Debug\RuleBaseInsertion.pdb
+D:\Sage\Sage\SRC\RuleBaseInsertion\RuleBaseInsertion\obj\Debug\RuleBaseInsertion.csprojResolveAssemblyReference.cache
+D:\Sage\Sage\SRC\RuleBaseInsertion\RuleBaseInsertion\obj\Debug\RuleBaseInsertion.exe
+D:\Sage\Sage\SRC\RuleBaseInsertion\RuleBaseInsertion\obj\Debug\RuleBaseInsertion.pdb
+D:\RuleBaseInsertion\RuleBaseInsertion\bin\Debug\RuleBaseInsertion.exe.config
+D:\RuleBaseInsertion\RuleBaseInsertion\bin\Debug\RuleBaseInsertion.exe
+D:\RuleBaseInsertion\RuleBaseInsertion\bin\Debug\RuleBaseInsertion.pdb
+D:\RuleBaseInsertion\RuleBaseInsertion\obj\Debug\RuleBaseInsertion.csprojResolveAssemblyReference.cache
+D:\RuleBaseInsertion\RuleBaseInsertion\obj\Debug\RuleBaseInsertion.exe
+D:\RuleBaseInsertion\RuleBaseInsertion\obj\Debug\RuleBaseInsertion.pdb
